@@ -132,7 +132,7 @@ static const char *colorname[] = {
  * foreground, background, cursor, reverse cursor
  */
 unsigned int defaultfg = 7;
-unsigned int defaultbg = 257;
+unsigned int defaultbg = 258;
 static unsigned int defaultcs = 7;
 static unsigned int defaultrcs = 257;
 
